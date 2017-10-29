@@ -1,0 +1,1 @@
+30 19 * * * /home/dexter/Developer/make-connections/reddit/checkins-bot.py

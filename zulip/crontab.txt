@@ -1,0 +1,2 @@
+30 19 * * * /home/dexter/Developer/make-connections/zulip/checkins-bot.sh /home/dexter/Developer/make-connections/zulip alumni-checkins
+30 19 * * 5 /home/dexter/Developer/make-connections/zulip/weekly-checkins-bot.sh /home/dexter/Developer/make-connections/zulip alumni-checkins
